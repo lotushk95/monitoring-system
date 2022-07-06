@@ -1,2 +1,2 @@
 # Raspberry-Pi
-This is the repository for motion sensor system using raspberry pi.
+This is the repository for monitoring system using raspberry pi.
